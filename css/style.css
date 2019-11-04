@@ -68,6 +68,7 @@ p {
 }
 
 /* Styling Containers */
+/* >* everything below this apply these changes */
 .single-col-container>*,
 .container>* {
     color: var(--main-text-color);
