@@ -177,6 +177,7 @@ nav .active a {
 
     #nav {
         transition: transform .3s ease-in-out;
+        /* take the full height of screen  */
         top: 0;
         bottom: 0;
         position: fixed;
